@@ -11,9 +11,7 @@ Things that took a while:
 - The scroll bar;
 - The metronome;
 - Note detection (duh);
-- min_distance_from_target (line 150 in audio.py (it is very sexy though; see "Coding conversion of frequency to note name" in the write-up, page 33 to 38)).
-
-Sorry for the inconsistent commenting ¯\\_(ツ)_/¯
+- min_distance_from_target, line 150 in audio.py (also see "Coding conversion of frequency to note name" in the write-up, page 33 to 38).
 
 ## Installation
 ### Dependancies
